@@ -1,0 +1,2 @@
+# Domain-Applications-for-Predictive-Analytics
+Domain Application for predictive Analysis is one of the elective modules in my course of Master's in Data analytics. In this repository, I've uploaded our final group project. The project is about gaining insights about accidents in the cities of Unites States of America. In another part of project we have built a predictive model to predict the severity of the accident using Extreme Gradient Boosting algorithm. 
